@@ -1,4 +1,4 @@
-# GitLearning
+#GitLearning
 collect all the materials while learning Git/GitHub
 
 ## 关于README.md的编写 ##
@@ -6,5 +6,11 @@ collect all the materials while learning Git/GitHub
 
 [GitHub Markdown语法](https://guides.github.com/features/mastering-markdown/)，非常详细的例子
 
+## Git
+
+
 ## GitHub
 [ProGit](https://git-scm.com/book/zh/v2/) 所有关于Git as a version controll tool的知识
+
+
+[GotGitHub](http://www.worldhello.net/gotgithub/index.html) GotGitHub 中文
